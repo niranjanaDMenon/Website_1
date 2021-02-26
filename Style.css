@@ -1,0 +1,27 @@
+
+h1 {
+    color: blue;
+}
+img {
+    border: solid green
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightsalmon;
+}
+
+.content{
+      display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.media{
+    display: flex;
+    justify-content: flex-end;
+    
+
+
+}
